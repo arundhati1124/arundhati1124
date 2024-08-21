@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arundhati1124
+- 👀 I’m interested in AI,ML
+- 🌱 I’m currently learning web dev, AI, DSA
+- 💞️ I’m looking to collaborate on AI projects 
