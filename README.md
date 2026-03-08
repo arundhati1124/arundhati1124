@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arundhati1124
-- 👀 I’m interested in web development.
+- 👀 I’m interested in Data analysis, Data Science.
 - 🌱 I’m currently exploring Gen AI, ML
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 💞️ I’m looking to collaborate on Data Science/analysis projects.
